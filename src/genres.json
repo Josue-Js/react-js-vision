@@ -1,0 +1,37 @@
+[
+    {   
+        "MovieId": 28,
+        "TvId": 10759,
+        "name": "Action"
+    },
+    {   
+        "MovieId": 12,
+        "TvId": 10759,
+        "name": "Adventure"
+    },
+    {
+        "MovieId": 16,
+        "TvId": 16,
+        "name": "Animation"
+    },
+    {
+        "MovieId": 35,
+        "TvId": 35,
+        "name": "Comedy"
+    },
+    {
+        "MovieId": 80,
+        "TvId": 80,
+        "name": "Crime"
+    },
+    {
+        "MovieId": 18,
+        "TvId": 18,
+        "name": "Drama"
+    },
+    {
+        "MovieId": 27,
+        "TvId": 27,
+        "name": "Horror"
+    }
+]
